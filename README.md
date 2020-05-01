@@ -17,8 +17,8 @@ This is a simple Progressive Web App which can simulate a musical environment an
 ## NOTE:
 This project is subject to change by the developer and is still in development
 
-## How to run this
-Running this is as simple as it gets. Follow this steps
+## To test this out
+Testing this is as simple as it gets. Follow this steps
 1. Open your terminal (NOTE: git bash preferred/ Terminal on VS Code)
 2. Navigate to the project folder where you have cloned this repo.
 3. Type the following command in the terminal
